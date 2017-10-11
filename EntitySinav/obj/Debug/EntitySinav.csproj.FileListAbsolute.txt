@@ -1,0 +1,16 @@
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\bin\Debug\EntitySinav.exe.config
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\bin\Debug\EntitySinav.exe
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\bin\Debug\EntitySinav.pdb
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\bin\Debug\EntityFramework.dll
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\bin\Debug\EntityFramework.xml
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.csprojResolveAssemblyReference.cache
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.Form1.resources
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.Properties.Resources.resources
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.SoruYonet.resources
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.csproj.GenerateResource.Cache
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.exe
+c:\users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.pdb
+C:\Users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.SoruEkran.resources
+C:\Users\section-1\documents\visual studio 2015\Projects\EntitySinav\EntitySinav\obj\Debug\EntitySinav.SinavSonuc.resources
